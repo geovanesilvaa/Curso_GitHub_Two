@@ -7,3 +7,9 @@ function handleHello(name) {
 }
 
 handleHello("Geovane Silva");
+
+function handleSoma(a, b) {
+  console.log(`O resultado da soma dos números ${a} + ${b} é igual a ${a + b}`);
+}
+
+handleSoma(50, 60);
